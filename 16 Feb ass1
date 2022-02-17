@@ -1,0 +1,15 @@
+n=int(input())
+i=0
+while i<n:
+     Print (i*i)
+        i=i+1
+
+
+
+O/P
+Enter n=5
+0
+1
+4
+9
+16
