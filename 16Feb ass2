@@ -1,0 +1,15 @@
+def is_leap(n):
+if year%4==0 any year%100!=0 or year%400==0:
+      return True
+else:
+      return False
+
+year=int(input())
+Print (is_leap(year))
+
+
+
+O/P
+Enter leap year =1990
+ 
+False
